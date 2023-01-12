@@ -1,0 +1,357 @@
+h1{
+    margin: 0%;
+}
+
+h2{
+    margin: 0%;
+}
+
+#color{
+    width: 5%;
+    height: 75rem;
+    margin-left: 63%;
+    background-color:  rgb(74, 182, 185);
+    position: absolute;
+}
+
+.img3{
+    position: absolute;
+}
+
+#div{
+    height: 75rem;
+    width: 100%;
+    /* background-color: white; */
+    position: absolute;
+}
+
+/* #bca{
+    margin-left: 15%;
+    position: absolute;
+
+} */
+
+.img1{
+    height: 213px;
+    width: 160px;
+    margin-top: 18px;
+    margin-left: 650px;
+    position: absolute;
+}
+
+.hed1{
+    margin-left: 9%;
+    color: rgb(74, 182, 185);
+}
+
+.div1{
+    height: 75rem;
+    width: 24%;
+    /* margin-left: 15%; */
+    background-color: rgb(74, 182, 185);
+    position: absolute;
+}
+
+.div2{
+    height: 23%;
+    width: 42%;
+    /* margin-left: 15%; */
+    margin-top: 5%;
+    background-color: white;
+    position: absolute;
+}
+
+#name{
+    margin-top: 6px;
+    font-size: 53px;
+    margin-left: 9%;
+    color: rgb(74, 182, 185);
+}
+
+.hed2{
+    margin-top: 18%;
+    margin-left: 3%;
+    color: white;
+    position: absolute;
+}
+
+.hr1{
+    margin-left:3% ;
+    margin-top: 280px;
+    position: absolute;
+}
+
+.add1{
+    margin-left: 3%;
+    margin-top: 22%;
+    color: white;
+    position: absolute;
+}
+
+.add2{
+    margin-left: 3%;
+    margin-top: 24%;
+    color: white;
+    position: absolute;
+}
+
+.phone {
+    margin-left: 3%;
+    margin-top: 29%;
+    color: white;
+    position: absolute;
+}
+
+.num{
+    margin-left: 3%;
+    margin-top: 31%;
+    color: white;
+    position: absolute;
+}
+
+.email{
+    margin-left: 3%;
+    margin-top: 36%;
+    color: white;
+    position: absolute;
+}
+
+.id{
+    margin-left: 3%;
+    margin-top: 38%;
+    color: white;
+    position: absolute;
+}
+
+.web{
+    margin-left: 3%;
+    margin-top: 43%;
+    color: white;
+    position: absolute;
+}
+
+.web1{
+    margin-left: 3%;
+    margin-top: 45%;
+    color: white;
+    position: absolute;
+}
+
+.skills{
+    margin-left: 3%;
+    margin-top: 48%;
+    font-size: 199%;
+    color: white;
+    position: absolute;
+}
+
+.hr2{
+    margin-left: 3%;
+    margin-top: 51%;
+    background-color: white;
+    position: absolute;
+}
+
+.table1{
+    margin-left: 3%;
+    margin-top: 51%;
+    position: absolute;
+}
+
+.lan{
+    margin-left: 3%;
+    margin-top: 949px;
+    color: white;
+    position: absolute;
+}
+
+.hr3{
+    margin-left: 3%;
+    margin-top: 73%;
+    color: white;
+    position: absolute;
+}
+
+.hed3{
+    margin-left: 3%;
+    margin-top: 74%;
+    color: white;
+    position: absolute;
+}
+
+.star1{
+    margin-left: 12%;
+    margin-top: 74%;
+    position: absolute;
+}
+
+.hed4{
+    margin-left: 3%;
+    margin-top: 78%;
+    color: white;
+    position: absolute;
+}
+
+.star2{
+    margin-left: 12%;
+    margin-top: 78%;
+    position: absolute;
+}
+
+.hed5{
+    margin-left: 3%;
+    margin-top: 82%;
+    color: white;
+    position: absolute;
+}
+
+.star3{
+    margin-left: 12%;
+    margin-top: 82%;
+    position: absolute;
+}
+
+.hed6{
+    margin-left: 3%;
+    margin-top: 86%;
+    color: white;
+    position: absolute;
+}
+
+.star4{
+    margin-left: 12%;
+    margin-top: 86%;
+    color: white;
+    position: absolute;
+}
+
+.about{
+    margin-left: 27%;
+    margin-top: 18%;
+    color: rgb(74, 182, 185);
+    position: absolute;
+}
+
+.hr4{
+    margin-left: 27%;
+    margin-top: 21%;
+    background-color: rgb(74, 182, 185);
+    position: absolute;
+}
+
+.p1{
+    margin-left: 27%;
+    margin-top: 22%;
+    position: absolute;
+}
+
+.edu{
+    margin-left: 27%;
+    margin-top: 35%;
+    color: rgb(74, 182, 185);
+    position: absolute;
+}
+
+.hr5{
+    margin-left: 27%;
+    margin-top: 38%;
+    background-color: rgb(74, 182, 185);
+    position: absolute;
+}
+
+.p2{
+    margin-left: 27%;
+    margin-top: 40%;
+    position: absolute;
+}
+
+.hed7{
+    margin-left: 27%;
+    margin-top: 40%;
+    position: absolute;
+}
+
+.p2{
+    margin-left: 27%;
+    margin-top: 43%;
+    position: absolute;
+}
+
+.date{
+    margin-left: 52%;
+    margin-top: 40%;
+    position: absolute;
+}
+
+
+
+.hed8{
+    margin-left: 27%;
+    margin-top: 41%;
+    position: absolute;
+}
+
+.dsm{
+    margin-left: 27%;
+    margin-top: 45%;
+    position: absolute;
+}
+
+.date1{
+    margin-left: 52%;
+    margin-top: 45%;
+    position: absolute;
+}
+
+.ssc{
+    margin-left: 27%;
+    margin-top: 49%;
+    position: absolute;
+}
+
+.date2{
+    margin-left: 52%;
+    margin-top: 49%;
+    position: absolute;
+}
+
+.Career{
+    margin-left: 27%;
+    margin-top: 53%;
+    color:   rgb(74, 182, 185);
+    position: absolute;
+}
+
+.hr6{
+    margin-left: 27%;
+    margin-top: 56%;
+    background-color: rgb(74, 182, 185);
+    position: absolute;
+}
+
+.Hobbies{
+    margin-left: 27%;
+    margin-top: 71%;
+    color: rgb(74, 182, 185);
+    position: absolute;
+}
+
+
+.h55{
+    margin-left: 27%;
+    margin-top: 57%;
+    position: absolute;
+}
+
+.hr7{
+    margin-left: 27%;
+    margin-top: 74%;
+    background-color: rgb(74, 182, 185);
+    position: absolute;
+}
+
+.etc{
+    margin-left: 27%;
+    margin-top: 75%;
+    position: absolute ;
+}
